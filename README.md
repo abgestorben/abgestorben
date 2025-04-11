@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm abgestorben
 
-<!--
-**Abgestorben/abgestorben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game & Web Developer  
+Passionate about **game development** and creative projects  
+No special goal — I just want to **succeed** doing what I love.
 
-Here are some ideas to get you started:
+## Current Work
+I'm currently working on a special game project — stay tuned for more details.  
+Building games with a mix of code, creativity, and curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Game Dev: Unity, C#, Godot  
+- Web Dev: JavaScript, HTML/CSS, Node.js, Php
+- Others: Visual Studio 2022, Visual Studio Code
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/abgestorben/)  
+- [Twitter / X](https://x.com/abgestorbendev)
+
+---
