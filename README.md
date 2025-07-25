@@ -9,7 +9,7 @@ I'm currently working on a special game project — stay tuned for more details.
 Building games with a mix of code, creativity, and curiosity.
 
 ## Tech Stack
-- Game Dev: Unity, C#, Godot  
+- Game Dev: Unity, C#  
 - Web Dev: JavaScript, HTML/CSS, Node.js, Php
 - Others: Visual Studio 2022, Visual Studio Code
 
