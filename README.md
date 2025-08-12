@@ -10,8 +10,8 @@ Building games with a mix of code, creativity, and curiosity.
 
 ## Tech Stack
 - Game Dev: Unity, C#  
-- Web Dev: JavaScript, HTML/CSS, Node.js, Php
-- Others: Visual Studio 2022, Visual Studio Code
+- Web Dev: JavaScript, HTML/CSS Tailwind, Node.js, Php
+- Others: Unity, Visual Studio Code
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/abgestorben/)  
