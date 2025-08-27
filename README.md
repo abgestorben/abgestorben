@@ -10,7 +10,7 @@ Building games with a mix of code, creativity, and curiosity.
 
 ## Tech Stack
 - Game Dev: Unity, C#  
-- Web Dev: JavaScript, HTML/CSS Tailwind, Node.js, Php
+- Web Dev: JavaScript, HTML/CSS Tailwind
 - Others: Unity, Visual Studio Code
 
 ## Connect with me
